@@ -30,3 +30,7 @@ By exploring this project, you can gain exposure to:
 The goal of this repository is not only to classify playing cards but also to provide a resource that others can learn from. If you're beginning your journey in deep learning, feel free to use this notebook as a reference, experiment with the code, and build upon it to strengthen your understanding of PyTorch and neural networks.
 
 Happy Learning! 🚀
+
+## Author
+
+Shreyas Talla
